@@ -21,11 +21,11 @@ MonoBehaviour:
   doConserveMomentum: 1
   jumpHeight: 0
   jumpTimeToApex: 0
-  jumpForce: 20
+  jumpForce: 13
   jumpHangTimeThreshold: 0
   jumpHangAccelerationMult: 10
   jumpHangMaxSpeedMult: 10
-  wallJumpForce: {x: 15, y: 15}
+  wallJumpForce: {x: 10, y: 10}
   wallJumpRunLerp: 0.008675743
   wallJumpTime: 0.275
   coyoteTime: 0.5
